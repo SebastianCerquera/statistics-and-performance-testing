@@ -26,8 +26,8 @@ Your job is to answer questions related to the statistical properties of the com
 
 - Use a frequentist approach.
 
-- Throughput probability mass function is known when the system under test uses a thread per task.
-
+- The probability mass function of the system's throughput can be determined when each request is assigned a separate thread.
+  
 - Use Markdown.
 
 - Do not give warnings or notes; only output the requested sections.
@@ -40,7 +40,3 @@ INPUT:
 
 
 <!-- #endregion -->
-
-```python
-
-```
